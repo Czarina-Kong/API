@@ -11,8 +11,8 @@ REST API using Python, Flask, and MongoDB
 4.  open Postman to test API
 
 ### Functions
--  GET from /<URI>/
--  POST to /<URI>/
--  PUT to /<URI>/<first_name>
--  DELETE from /<URI>/<first_name>
+-  GET from \<URI\>
+-  POST to \<URI\>
+-  PUT to \<URI\>/<first_name>
+-  DELETE from \<URI\>/<first_name>
 
