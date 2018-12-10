@@ -10,7 +10,7 @@ REST API using Python, Flask, and MongoDB
     ```python3 API.py```
 4.  open Postman to test API
 
-### Functions
+### Methods
 -  GET from \<URI\>
 -  POST to \<URI\>
 -  PUT to \<URI\>/<first_name>
